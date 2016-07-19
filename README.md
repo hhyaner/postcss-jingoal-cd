@@ -1,3 +1,5 @@
+从postcss-jingoal代码库Fork而来，由Jingoal成都团队维护
+
 ## 用途
 自动解决 
 * 渐变 
