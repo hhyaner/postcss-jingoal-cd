@@ -1,0 +1,32 @@
+{
+  "name": "postcss-jingoal",
+  "version": "2.0.16",
+  "description": "PostCSS plugin for jingoal",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "opacity"
+  ],
+  "repository":{
+    "type": "git",
+    "url": "git@github.com:jingoal-chengdu/postcss-jingoal.git"
+  },
+  "author": {
+    "name": "lirongfei",
+    "email": "985867294@qq.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^4.1.16",
+    "gulp": "^3.9.0"
+  },
+  "maintainers": [
+    {
+      "name": "lirongfei123",
+      "email": "lirongfei985@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readmeFilename": "README.md"
+}
