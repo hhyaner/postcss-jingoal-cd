@@ -1,5 +1,5 @@
 {
-  "name": "postcss-jingoal",
+  "name": "postcss-jingoal-cd",
   "version": "2.0.16",
   "description": "PostCSS plugin for jingoal",
   "keywords": [
@@ -10,7 +10,7 @@
   ],
   "repository":{
     "type": "git",
-    "url": "git@github.com:jingoal-chengdu/postcss-jingoal.git"
+    "url": "git@github.com:jingoal-chengdu/postcss-jingoal-cd.git"
   },
   "author": {
     "name": "lirongfei",

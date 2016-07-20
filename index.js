@@ -1,6 +1,6 @@
 var postcss = require('postcss');
 var replaceRules = require("./replaceRules.js");
-module.exports = postcss.plugin('postcss-jingoal', function (opts) {
+module.exports = postcss.plugin('postcss-jingoal-cd', function (opts) {
   opts = opts || {};
   return function (css,result) {
    css.walk(function(rule){
