@@ -16,7 +16,7 @@ function cloneAfter(decl,obj){
      decl.cloneAfter({ prop: obj.prop, value: obj.value});
   }
 }
-module.export = {
+module.exports = {
   /*改变ie9:root ie78,ie7,ie8的位置*/
   change_root_position:function(decl,prop,value){
     var selectors=decl.parent.selector.trim().split(","),
